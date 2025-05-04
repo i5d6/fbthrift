@@ -14,7 +14,7 @@
     </modules>
 
     <properties>
-        <mavenVersion>3.6.3</mavenVersion>
+        <mavenVersion>3.9.9</mavenVersion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
